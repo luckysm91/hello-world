@@ -1,2 +1,5 @@
-# hello-world
-Primer repositiorio (de prueba) para aprender a usar GitHub
+Hola
+Que pacha
+Estamos de prueba
+Haciendo una rama
+Del main
